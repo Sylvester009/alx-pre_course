@@ -1,1 +1,1 @@
-git remote add origin <remote_repo_URL>
+echo, git add ., git commit -m , git push
